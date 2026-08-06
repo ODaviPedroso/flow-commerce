@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FlowCommerce.Api/FlowCommerce.Api.csproj" />
+    <Project Path="src/FlowCommerce.Application/FlowCommerce.Application.csproj" />
+    <Project Path="src/FlowCommerce.Domain/FlowCommerce.Domain.csproj" />
+    <Project Path="src/FlowCommerce.Infrastructure/FlowCommerce.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FlowCommerce.IntegrationTests/FlowCommerce.IntegrationTests.csproj" />
+    <Project Path="tests/FlowCommerce.UnitTests/FlowCommerce.UnitTests.csproj" />
+  </Folder>
+</Solution>
