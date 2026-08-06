@@ -1,0 +1,6 @@
+@FlowCommerce.Api_HostAddress = http://localhost:5287
+
+GET {{FlowCommerce.Api_HostAddress}}/health
+Accept: application/json
+
+###
